@@ -1,0 +1,63 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+קוליגר מביאה אליך תכשיטים בהשראת הים והטבע, עבודת יד אומנותית שמספרת סיפור. גלי קולקציות ייחודיות של צדפים, אבנים וגלים — ותרגישי את הטבע על עורך.
+
+### אודות
+https://example.com/about
+מהים אל היד שלך — קוליגר נולדה מאהבה עמוקה לטבע ולאוקיינוס. הכירי את הברנד שמפיח חיים בצדפים, עלים ואבנים ומהפך אותם ליצירות תכשיטים בלתי נשכחות.
+
+### אומנות
+https://example.com/craftsmanship
+כל תכשיט של קוליגר עובר תהליך יצירה קפדני ביד אומן — מהשראת הגל ועד לפיסת התכשיט המושלמת. גלי את הטכניקות הייחודיות שהופכות חומרי טבע לתכשיטים בהשראת הטבע עבודת יד.
+
+### לוקבוק
+https://example.com/lookbook
+לוקבוק קוליגר — השראה ויזואלית לכל אוהבת תכשיטי ים מיוחדים לאישה. גלי כיצד גלים, צדפים ואבנות טבעיות הופכים לסטיילינג עוצר נשימה שאת תרצי לחקות.
+
+### צור קשר
+https://example.com/contact
+יש לך שאלה, בקשה מיוחדת או סתם רצון להתחבר? צרי קשר עם קוליגר ונשמח לעזור לך למצוא את תכשיט הים המושלם שסיפר לך בדיוק עליך. אנחנו כאן בשבילך.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Kliger
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Kliger
+
+### Category
+https://example.com/category/:slug
+מוצרים - Kliger
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
